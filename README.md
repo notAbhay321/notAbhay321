@@ -21,7 +21,7 @@ I work across the full stack — from soldering components on a PCB to writing C
 
 ## 🚀 Projects
 
-### 🌉 [AI-Bridge](https://github.com/notAbhay321/AI-bridge) — Chrome Extension
+### 🌉 [AI Bridge](https://github.com/notAbhay321/AI-bridge) — Chrome Extension
 > Query ChatGPT, Claude, Gemini, Copilot, Perplexity, Deepseek, and Mistral **simultaneously** from a single interface.
 
 Send one prompt to all your AI models at once and compare responses side by side. No more switching tabs.
@@ -31,16 +31,16 @@ Send one prompt to all your AI models at once and compare responses side by side
 ---
 
 ### ⚡ [Dual Power Supply](https://github.com/notAbhay321/Dual-power-supply) — Hardware / Electronics
-> Regulated AC to DC multi-voltage power supply for ESP32-based smart automation systems.
+> Regulated AC to DC multi voltage power supply for ESP32 based smart automation systems.
 
-Custom-designed 230V AC → 5V & 3.3V DC supply using LM2596-ADJ buck converters. Built for 24/7 automation with <30mV ripple, KiCad PCB design, and full Multisim simulation.
+Custom designed 230V AC → 5V & 3.3V DC supply using LM2596-ADJ buck converters. Built for 24/7 automation with <30mV ripple, KiCad PCB design, and full Multisim simulation.
 
 `Hardware` `KiCad` `Multisim` `ESP32` `Power Electronics`
 
 ---
 
 ### 🚨 [SOS Alert Device](https://github.com/notAbhay321/sos_alert_device) — Raspberry Pi / Python
-> One button press → Email + Telegram alert with real-time GPS location and Google Maps link.
+> One button press → Email + Telegram alert with real time GPS location and Google Maps link.
 
 Raspberry Pi emergency device with GPS module, buzzer feedback, image updates over Telegram, and automatic IP-based location fallback if GPS isn't available.
 
