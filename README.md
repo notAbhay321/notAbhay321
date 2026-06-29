@@ -114,9 +114,7 @@ Covers I/O, functions, classes, inheritance, constructors, pointers, and polymor
 
 ## 📬 Get in Touch
 
-Open an issue on any repo, or find me on GitHub — I'm actively building things.
-
-> *"localhost" is my location. My projects are everywhere else.*
+Open an issue on any repo, or find me on GitHub, I'm actively building things.
 
 ---
 
